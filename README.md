@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about android developement , c# or any tech related stuff
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love study Motivational Speaking / Public Speaking
--->
+
