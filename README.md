@@ -1,6 +1,6 @@
 ### Hi, I'm KHRISS ABDELAADIM 👋
 
-I pride myself in being a Software developer . I chose that field of study because I’ve always been interested in Programming and data science science .
+I pride myself in being a Data scientist . I chose that field of study because I’ve always been interested in Programming and data science science .
 I'm always looking to be challenged , and to challenge others.Driving skilled designers to think outside the box , and really bring out their artistic abilities is what motivates me , Let's connect and see what we can do together !
 My areas of expertise include :
 Data Science with R ,Web development Full stack (.NET ), Android Development(Java,Kotlin) and Time management 
